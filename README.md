@@ -4,4 +4,8 @@
 
 ## Purpose
 
-This repository is used to demonstrate Valve Blocks in live WordPress environment where developer can click around and test it before using on real project. The aim is to save development time.
+This repository is used to demonstrate Interactive Demo plugin in live WordPress environment where user can click around and test it.
+
+## Link to demo
+
+Copy this link to your browser and let the magic happen: https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/vladmirom/valve-blocks-playground/refs/heads/main/sharing/blueprint.json
