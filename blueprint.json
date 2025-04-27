@@ -15,8 +15,8 @@
 		{
 			"step": "installPlugin",
 			"pluginData": {
-			  "resource": "vfs",
-			  "path": "./zips/interactive-demo.zip"
+			  "resource": "url",
+		  	  "url": "https://raw.githubusercontent.com/vladmirom/interactive-demo/refs/heads/main/zips/interactive-demo.zip"
 			}
 		},
 		{

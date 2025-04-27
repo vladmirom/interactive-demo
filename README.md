@@ -8,4 +8,4 @@ This repository is used to demonstrate Interactive Demo plugin in live WordPress
 
 ## Link to demo
 
-Copy this link to your browser and let the magic happen: https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/vladmirom/valve-blocks-playground/refs/heads/main/sharing/blueprint.json
+Copy this link to your browser and let the magic happen: https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/vladmirom/interactive-demo/refs/heads/main/blueprint.json
